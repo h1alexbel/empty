@@ -1,2 +1,1 @@
-# empty
-Empty GitHub repository for my integration tests
+Empty GitHub repository for my integration tests, Do not delete it!
